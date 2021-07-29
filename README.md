@@ -1,6 +1,6 @@
 # Modeling micromechanics of polycrystalline metals by deep neural network
 ## Background
-This code is a demo of paper “Modeling micromechanics of polycrystalline metals by deep neural network”
+This code is a demo of paper “Modeling micromechanics of polycrystalline metals by deep neural network” <br />
 We presente DNN model to predict the stress-strain curves of polycrystalline SnSb alloy under uniaxial tensile conditions. Compared with traditional crystal plasticity finite element method, DNN can save up 99.8% computational time. <br />
  ![image](https://github.com/zhangzhao2014/CPFEM_DNN/blob/main/images/Runtime_comparison.png)<br />
 Fig.1. Runtime comparison between CPFEM and DNN model
