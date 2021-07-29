@@ -11,11 +11,11 @@ Trained folder is the DNN model we have trained will.<br />
 Loss folder is the training loss.<br />
 Requirement.txt is the package you should install when you run the demo. <br /> 
 ## Requirements
-Ananconda    4.8.0 <br />
-Python	      =3.6<br />
-Numpy	       >= 1.19.5<br />
-Pytorch	     >= 1.8.1<br />
-Matplotlib	  >=3.1.1<br />
+Anaconda     4.8.0 <br />
+Python       =3.6<br />
+Numpy        >= 1.19.5<br />
+Pytorch      >= 1.8.1<br />
+Matplotlib   >=3.1.1<br />
 ## Contributing
 We appreciate all contributions. If you are planning to contribute back bug-fixes, please do so without any further discussion.<br />
 If you plan to contribute new features, utility functions or extensions to the core, please first open an issue and discuss the feature with us. Sending a PR without discussion might end up resulting in a rejected PR, because we might be taking the core in a different direction than you might be aware of. <br />
