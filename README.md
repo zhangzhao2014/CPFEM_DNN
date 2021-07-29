@@ -5,11 +5,11 @@ We presente DNN model to predict the stress-strain curves of polycrystalline SnS
  ![image](https://github.com/zhangzhao2014/CPFEM_DNN/blob/main/images/Runtime_comparison.png)<br />
 Fig.1. Runtime comparison between CPFEM and DNN model
 ## Usage
-Download DNN_Built_Version.ipynb and run it in Anaconda.
-Data folder is the data you should use to train the DNN models.
-Trained folder is the DNN model we have trained will.
-Loss folder is the training loss.
-Requirement.txt is the package you should install when you run the demo.  
+Download DNN_Built_Version.ipynb and run it in Anaconda.<br />
+Data folder is the data you should use to train the DNN models.<br />
+Trained folder is the DNN model we have trained will.<br />
+Loss folder is the training loss.<br />
+Requirement.txt is the package you should install when you run the demo. <br /> 
 ## Requirements
 Ananconda    4.8.0 <br />
 Python	      =3.6<br />
