@@ -11,7 +11,7 @@ Trained folder is the DNN model we have trained will.<br />
 Loss folder is the training loss.<br />
 Requirement.txt is the package you should install when you run the demo. <br /> 
 ## Requirements
-Anaconda     4.8.0 <br />
+Anaconda     =4.8.0 <br />
 Python       =3.6<br />
 Numpy        >= 1.19.5<br />
 Pytorch      >= 1.8.1<br />
